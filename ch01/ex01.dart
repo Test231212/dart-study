@@ -1,3 +1,5 @@
+import 'data.dart';
+
 int n1 = 1;
 double d1 = 10.1;
 bool b1 = true;
