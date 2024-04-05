@@ -1,0 +1,9 @@
+
+  // 변수에 익명 함수를 대입할 수 있다 이 때 function타입을 사용
+  Function add = (int n1, int n2){
+    print(n1+n2);
+  };
+
+  void main(){
+    add(1,3);
+  }
