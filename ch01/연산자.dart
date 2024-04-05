@@ -31,5 +31,5 @@ void main() {
   print("true && false -> ${true && false}");
   print("true && true -> ${true && true}");
   // 또는
-  print("true || ture -> ${true || false}");
+  print("true || false -> ${true || false}");
 }
