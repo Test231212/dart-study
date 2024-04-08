@@ -17,4 +17,8 @@ void main() {
 
   // toList() 함수를 사용하면 list타입으로 변경 가능
   List<int> lottoList = lotto.toList();
+
+  // List 타입은 sort()메서드로 정렬할 수 있다
+  lottoList.sort();
+  print(lottoList);
 }
